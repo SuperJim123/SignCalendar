@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cal_title_text_size">18sp</dimen>
+    <dimen name="cal_title_height">48dp</dimen>
+    <dimen name="cal_title_h_margin">10dp</dimen>
+
+    <dimen name="cal_weekdays_height">52dp</dimen>
+    <dimen name="cal_weekdays_text_size">12sp</dimen>
+    <dimen name="cal_weekdays_h_margin">10dp</dimen>
+
+    <dimen name="cal_divider_h_margin">10dp</dimen>
+    <dimen name="cal_divider_height">1dp</dimen>
+
+    <dimen name="cal_arrow_height">18dp</dimen>
+
+    <dimen name="cal_sign_text_size">10sp</dimen>
+    <dimen name="cal_day_text_size">20sp</dimen>
+
+    <dimen name="cal_pager_h_margin">10dp</dimen>
+
+    <dimen name="cal_date_v_margin">10dp</dimen>
+    <dimen name="cal_date_width">45dp</dimen>
+    <dimen name="cal_date_height">45dp</dimen>
+</resources>

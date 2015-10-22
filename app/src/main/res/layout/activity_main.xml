@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <cn.wecoder.signcalendar.library.SignCalendar
+                android:id="@+id/my_sign_calendar"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+            </cn.wecoder.signcalendar.library.SignCalendar>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="签到"
+                android:layout_below="@id/my_sign_calendar"/>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

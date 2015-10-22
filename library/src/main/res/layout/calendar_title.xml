@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingRight="@dimen/cal_title_h_margin"
+    android:paddingLeft="@dimen/cal_title_h_margin">
+
+    <ImageView
+        android:id="@+id/left_arrow"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/cal_arrow_height"
+        android:layout_centerVertical="true" />
+
+    <TextView
+        android:id="@+id/title_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="2014年4月"
+        android:textSize="@dimen/cal_title_text_size"/>
+
+    <ImageView
+        android:id="@+id/right_arrow"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/cal_arrow_height"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true" />
+</RelativeLayout>

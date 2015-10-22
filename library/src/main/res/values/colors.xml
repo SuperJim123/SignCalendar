@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cal_title_background">#FFFFFFFF</color>
+    <color name="cal_title_text">#FF2D2D2D</color>
+
+    <color name="cal_arrow_enable">#ffc0c0c0</color>
+    <color name="cal_arrow_unable">#ffeaeaea</color>
+
+    <color name="cal_divider">#FFEDEDED</color>
+
+    <color name="cal_weekdays_background">#FFFFFFFF</color>
+    <color name="cal_weekdays_text">#FF2D2D2D</color>
+
+    <color name="cal_pager_background">#FFFFFFFF</color>
+
+    <color name="cal_signed_border">#ffb5e6f1</color>
+    <color name="cal_signed_background">#fff7fcfe</color>
+    <color name="cal_signed_day">#ff0babd1</color>
+    <color name="cal_signed_text">#ff0babd1</color>
+
+    <color name="cal_unsigned_day">#ff2d2d2d</color>
+    <color name="cal_unsigned_text">#ffb6b6b6</color>
+
+    <color name="cal_today_background">#ff0babd1</color>
+    <color name="cal_today_day">#ffffffff</color>
+    <color name="cal_today_text">#ffffffff</color>
+
+    <color name="cal_unreach_day">#ffb6b6b6</color>
+    <color name="cal_unreach_text">#ffb6b6b6</color>
+</resources>

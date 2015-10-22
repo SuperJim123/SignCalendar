@@ -1,0 +1,33 @@
+<resources>
+
+    <string-array name="cal_weekdays">
+        <item>日</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+    </string-array>
+
+    <string-array name="cal_months">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string name="calendar_title">%1$d年%2$s月</string>
+
+    <string name="last_month">上个月</string>
+    <string name="next_month">下个月</string>
+
+</resources>
